@@ -1,0 +1,15 @@
+# Local configuration and generated dependencies.
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+dist/
+build/
+coverage/
+*.log
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
